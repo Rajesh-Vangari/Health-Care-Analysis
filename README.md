@@ -5,9 +5,11 @@ Health Analysis Project
 
 Welcome to my Health Analysis project, where I utilize data analysis and visualization techniques to derive insights from healthcare data using Power BI. 📊🏥
 
-#Project Overview
+Project Overview
 
-In the healthcare sector, understanding patient demographics, treatment costs, and satisfaction levels is essential for improving service delivery and patient outcomes. This project aims to provide a detailed analysis of healthcare metrics, facilitating data-driven decisions for healthcare providers. Here’s a summary of my work:
+In the healthcare sector, understanding patient demographics, treatment costs, and satisfaction levels is essential for improving service delivery and patient outcomes. This project aims to provide a detailed analysis of healthcare metrics, facilitating data-driven decisions for healthcare providers.
+
+Here’s a summary of my work:
 
 1. Data Collection & Preparation
    
@@ -37,7 +39,8 @@ Data Cleaning: The raw data was meticulously cleaned to ensure accuracy, address
 
 4. Insights & Analysis
    
- The dashboard reveals valuable insights into patient trends, treatment costs, and satisfaction levels, helping healthcare providers make informed decisions. By analyzing provider performance, this project also identifies best practices and areas for improvement in service delivery.
+ The dashboard reveals valuable insights into patient trends, treatment costs, and satisfaction levels, helping healthcare providers make informed decisions. By analyzing provider performance, this project also 
+ identifies best practices and areas for improvement in service delivery.
 
  Getting Started
 
