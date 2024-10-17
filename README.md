@@ -1,5 +1,5 @@
 # Health-Care-Analysis
-https://media.istockphoto.com/id/1439540564/vector/patient-and-visitor.jpg?s=612x612&w=0&k=20&c=ePUMd83ulBoiqXJql5LegaJiTeatDgrfhT-_H9B_BXQ=
+![image](https://github.com/user-attachments/assets/47af9002-1eb8-456c-9ee0-3b49c9705b6e)
 
 Health Analysis Project
 Welcome to my Health Analysis project, where I utilize data analysis and visualization techniques to derive insights from healthcare data using Power BI. 📊🏥
