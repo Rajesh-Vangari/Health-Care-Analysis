@@ -1,5 +1,9 @@
 # Health-Care-Analysis
-![image](https://github.com/user-attachments/assets/47af9002-1eb8-456c-9ee0-3b49c9705b6e)  ![image](https://github.com/user-attachments/assets/aa8f4ce6-3cc2-403b-bc86-7e04453ab458)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/47af9002-1eb8-456c-9ee0-3b49c9705b6e" width="400" />
+  <img src="https://github.com/user-attachments/assets/aa8f4ce6-3cc2-403b-bc86-7e04453ab458" width="400" /> 
+</p>
 
 
 Health Analysis Project
